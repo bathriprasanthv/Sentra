@@ -1,0 +1,13 @@
+[
+  "requests_per_minute",
+  "session_duration",
+  "failed_requests",
+  "unique_endpoints",
+  "sensitive_requests",
+  "request_interval",
+  "burst_rate",
+  "navigation_deviation",
+  "device_change",
+  "location_change",
+  "activity_time_deviation"
+]
